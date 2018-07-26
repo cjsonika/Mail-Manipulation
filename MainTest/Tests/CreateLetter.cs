@@ -79,7 +79,7 @@ namespace CreateLetter
                 driver.FindElement(By.XPath("//input[@type='file']")).SendKeys(filePath);
 
 
-           // Thread.Sleep(5000);
+           Thread.Sleep(5000);
             //вставляємо його в інпут
 
 
