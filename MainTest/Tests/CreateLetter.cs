@@ -73,7 +73,7 @@ namespace CreateLetter
 
             Thread.Sleep(5000);
             string file = "Program.cs";
-            string filePath = @"E:\Mail Manipulation\File\" + file;
+            string filePath = @"E:\Clone\File\" + file;
           
                 //задаємо шлях до файлу
                 driver.FindElement(By.XPath("//input[@type='file']")).SendKeys(filePath);
@@ -100,7 +100,7 @@ namespace CreateLetter
             ChromeOptions chromeOptions = new ChromeOptions();
 
             string File = "Program.cs";
-            string FilePath = @"E:\Mail Manipulation\Save Result\" + File;
+            string FilePath = @"E:\Clone\Save Result\" + File;
            
             
 

@@ -35,7 +35,7 @@ namespace MainTest.FrameWork.TestConf
         public static void GetConfigs()
         {
             XmlDocument config = new XmlDocument();
-            config.Load("E:\\Mail Manipulation\\MainTest\\Config.xml");        
+            config.Load("E:\\Clone\\MainTest\\Config.xml");        
             Browser = config.DocumentElement.SelectSingleNode("browser").InnerText;
             Username = config.DocumentElement.SelectSingleNode("username").InnerText;
             Password = config.DocumentElement.SelectSingleNode("password").InnerText;

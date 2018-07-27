@@ -81,3 +81,29 @@ E:\Mail Manipulation\MainTest\obj\Debug\MainTest.pdb
 E:\Mail Manipulation\MainTest\obj\Debug\MainTest.csprojAssemblyReference.cache
 E:\Mail Manipulation\MainTest\obj\Debug\MainTest.csproj.CoreCompileInputs.cache
 E:\Mail Manipulation\MainTest\obj\Debug\MainTest.csproj.CopyComplete
+E:\Clone\MainTest\bin\Debug\DriversVersions.txt
+E:\Clone\MainTest\bin\Debug\NUnit3.TestAdapter.dll
+E:\Clone\MainTest\bin\Debug\NUnit3.TestAdapter.pdb
+E:\Clone\MainTest\bin\Debug\nunit.engine.dll
+E:\Clone\MainTest\bin\Debug\nunit.engine.api.dll
+E:\Clone\MainTest\bin\Debug\Mono.Cecil.dll
+E:\Clone\MainTest\bin\Debug\chromedriver.exe
+E:\Clone\MainTest\bin\Debug\geckodriver.exe
+E:\Clone\MainTest\bin\Debug\IEDriverServer.exe
+E:\Clone\MainTest\bin\Debug\MicrosoftWebDriver.exe
+E:\Clone\MainTest\bin\Debug\AutoItX3.dll
+E:\Clone\MainTest\bin\Debug\AutoItX3_x64.dll
+E:\Clone\MainTest\bin\Debug\MainTest.dll
+E:\Clone\MainTest\bin\Debug\MainTest.pdb
+E:\Clone\MainTest\bin\Debug\AutoItX3.Assembly.dll
+E:\Clone\MainTest\bin\Debug\nunit.framework.dll
+E:\Clone\MainTest\bin\Debug\WebDriver.dll
+E:\Clone\MainTest\bin\Debug\WebDriver.Support.dll
+E:\Clone\MainTest\bin\Debug\AutoItX3.Assembly.xml
+E:\Clone\MainTest\bin\Debug\nunit.framework.pdb
+E:\Clone\MainTest\bin\Debug\nunit.framework.xml
+E:\Clone\MainTest\bin\Debug\WebDriver.xml
+E:\Clone\MainTest\bin\Debug\WebDriver.Support.xml
+E:\Clone\MainTest\obj\Debug\MainTest.csprojResolveAssemblyReference.cache
+E:\Clone\MainTest\obj\Debug\MainTest.dll
+E:\Clone\MainTest\obj\Debug\MainTest.pdb
