@@ -69,6 +69,7 @@
     <Compile Include="PageObject\TextForamtterObjects.cs" />
     <Compile Include="Tests\CheckObjects.cs" />
     <Compile Include="Tests\EmailTest.cs" />
+    <Compile Include="Tests\SofiTest.cs" />
     <Compile Include="Tests\TextFormatter.cs" />
     <Compile Include="Tests\Translator.cs" />
     <Compile Include="Tests\CreateLetter.cs" />

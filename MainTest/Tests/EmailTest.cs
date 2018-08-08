@@ -67,6 +67,9 @@ namespace MainTest
             mailPage.CheckMail();
         }
 
+        [Test]
+
+
         [OneTimeTearDown]
         public void NewWindow()
         {

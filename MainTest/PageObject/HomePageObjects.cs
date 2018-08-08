@@ -27,6 +27,9 @@ namespace MainTest.PageObjects.HomePages
         public IWebElement Checkbox => driver.FindElement(By.Id("c00"));
         public IWebElement Button => driver.FindElement(By.XPath("/html/body/div[3]/div[3]/div[3]/div[2]/div[1]/div[3]/form/p/input"));
 
+        //SofiTest
+        public IWebElement DomnList => driver.FindElement(By.Id("//select[@name='domn']/option[@value='email.ua']"));
+        public IWebElement IncorrectPasswordError = 
 
         public void ChoosePopup(string name)
         {
